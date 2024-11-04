@@ -3,6 +3,8 @@
 # 2024/4/25 20:25
 
 print('Hello, MCU!')
+print('Hello, MCU!')
+print('Hello, MCU!')
 
 
 #字典
